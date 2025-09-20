@@ -11,8 +11,10 @@ The goal was to transform raw survey responses into a compelling narrative. I st
 **What's Inside**
 
 social_media_survey_data.csv: This is the raw dataset collected from the survey. It's the foundation of my analysis, containing all the anonymous responses.
+
 Social_Media_Impact_Analysis.pbix: This is the Power BI project file. It contains all the data connections, transformations, and the final dashboard visualizations. It is the heart of the project.
-visualizations/: This folder contains the key charts and graphs generated during the analysis. These images provide a visual summary of the findings, such as the relationship between screen time and feelings of loneliness, or which platforms are most popular among different age groups.
+
+visualizations: This folder contains the key charts and graphs generated during the analysis. These images provide a visual summary of the findings, such as the relationship between screen time and feelings of loneliness, or which platforms are most popular among different age groups.
 
 **Key Discoveries**
 
@@ -29,7 +31,3 @@ Power BI: The primary tool used for data cleaning, modeling, and creating the in
 
 
 Open the Social_Media_Impact_Analysis.pbix file using Power BI Desktop.
-
-Explore the various pages of the dashboard to interact with the visualizations and discover your own insights!
-
-This project was created by Bhartisharma34.
